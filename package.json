@@ -19,10 +19,16 @@
   "devDependencies": {
     "jest": "^27.4.7"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cypress": "^9.3.1"
+  },
   "jest": {
-    "modulePathIgnorePatterns": ["<rootDir>/Aula 1"],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/Aula 1"
+    ],
     "collectCoverage": true,
-    "coverageReport": ["html"]
+    "coverageReport": [
+      "html"
+    ]
   }
 }
