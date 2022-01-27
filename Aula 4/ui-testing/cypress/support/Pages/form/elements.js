@@ -1,11 +1,11 @@
 
 
 export const ELEMENTS = {
-    skillName: '',
-    developer: '',
-    technologies: '',
-    role: '',
-    submitButton:'',
+    skillName: '#skillName',
+    developer: '#developer',
+    technologies: '#technologies',
+    roles: '#roles',
+    submitButton:'#submitButton',
 
 }
 
